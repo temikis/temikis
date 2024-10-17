@@ -7,7 +7,7 @@ I'm a junior frontend developer. I’m currently learning at [Hexlet](https://ru
 ### [Brain games](https://github.com/temikis/frontend-project-44) - Five easy-level math console mini-games.
 ### [Difference Calculator](https://github.com/temikis/frontend-project-46) - The Difference Calculator helps you find the differences between two files.
 ### [RSS aggregator](https://github.com/temikis/frontend-project-11) - A service that allows you to query RSS feeds of sites. The user enters the addresses of the RSS sources of interest into the aggregator. Next, the aggregator independently checks the sources for updates at a specified frequency and, if there are any, updates the publication feed. The user has the opportunity to view them in more detail in a modal window.
-### [Mini Chat](https://github.com/temikis/frontend-project-46) - Mini-chat on React Bootstrap, using redux-toolkit RTK query. Configured form validation using Formik and Yup. Support for censoring channels and messages using leo-profanity. The chat supports multi-languages ​​thanks to integration with the i18next library.
+### [Mini Chat](https://github.com/temikis/frontend-project-12) - Mini-chat on React Bootstrap, using redux-toolkit RTK query. Configured form validation using Formik and Yup. Support for censoring channels and messages using leo-profanity. The chat supports multi-languages ​​thanks to integration with the i18next library.
 
 ## My skills:
 - HTML
